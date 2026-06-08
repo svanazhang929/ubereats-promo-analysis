@@ -1,0 +1,14 @@
+promo_type,suburb,restaurant_count,avg_rating,avg_review_count,avg_delivery_fee,promo_count,promo_rate_pct
+Free Item,Surry Hills,1,4.8,220.0,,1.0,100.0
+Free Item,Sydney CBD,1,3.6,32.0,9.99,1.0,100.0
+No Promotion,Chatswood,65,4.575,413.0,0.0,0.0,0.0
+No Promotion,Parramatta,57,4.477,1080.0,0.0,0.0,0.0
+No Promotion,Surry Hills,55,4.498,1389.0,5.62,0.0,0.0
+No Promotion,Sydney CBD,25,4.064,1353.0,9.27,0.0,0.0
+Other,Chatswood,5,3.78,131.0,9.49,5.0,100.0
+Other,Parramatta,8,4.213,402.0,9.49,8.0,100.0
+Other,Surry Hills,11,4.127,1443.0,9.66,11.0,100.0
+Other,Sydney CBD,12,3.758,576.0,9.95,12.0,100.0
+Percentage Discount,Parramatta,2,4.45,41.0,,2.0,100.0
+Percentage Discount,Surry Hills,1,4.7,12.0,,1.0,100.0
+Percentage Discount,Sydney CBD,1,4.1,220.0,9.99,1.0,100.0
