@@ -1,0 +1,13 @@
+name: 'ubereats'
+version: '1.0.0'
+config-version: 2
+profile: 'ubereats'
+model-paths: ["models"]
+models:
+  ubereats:
+    bronze:
+      +schema: bronze
+    silver:
+      +schema: silver
+    gold:
+      +schema: gold
